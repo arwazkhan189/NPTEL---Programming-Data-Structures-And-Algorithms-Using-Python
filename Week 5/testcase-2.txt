@@ -1,0 +1,13 @@
+Courses
+POT~Potions~1~2011-2012~Severus Snape
+DADA~Defence Against the Dark ARTS~1~2011-2012~Gilderoy Lockhart 
+Students
+RAV4309~Angelina Johnson
+HUF7201~Gwenog Jones
+GRF9110~Parvati Patil
+RAV4308~Olive Hornby
+Grades
+POT~1~2011-2012~RAV4308~C
+POT~1~2011-2012~RAV4309~B
+POT~1~2011-2012~GRF9110~A
+EndOfInput
